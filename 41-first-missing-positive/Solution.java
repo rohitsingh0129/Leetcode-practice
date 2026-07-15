@@ -17,3 +17,12 @@ class Solution {
         return n;
     }
 }
+
+// THIS ONE SMALLEST APPROACH
+// int target = 1;
+// for (int i = 0; i < nums.length; i++) {
+//     if (nums[i] == target) {
+//         target++;
+//     }
+// }
+// return target;
